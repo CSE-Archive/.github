@@ -8,8 +8,8 @@ After some time, we came up with this idea to turn that channel into a website s
 
 This project includes a site to show collected resources and references and other parts, and an admin panel to manage the site.
 The project consists of three parts so far;
-- A part for the site's [back-end](https://github.com/CSE-Archive/archive-api) which is written in Python language and Django framework.
-- The next part if site's [front-end](https://github.com/CSE-Archive/archive-ui) which is written in Dart language and Flutter framework.
+- A part for the [site's back-end](https://github.com/CSE-Archive/archive-api) which is written in Python language and Django framework.
+- The next part if [site's front-end](https://github.com/CSE-Archive/archive-ui) which is written in Dart language and Flutter framework.
 - And a [Telegram bot](https://github.com/CSE-Archive/archive-telegram-bot) so that users can communicate with admins through it, which is built with python-telegram-bot library.
 The description to each part of the project is in its own repository's Readme, and through it you can deploy a clone of the project for yourself.
 
@@ -38,10 +38,10 @@ There are different ways to contribute to the project:
 - Introduce us to your friends
 - Star our repositories
 - Tell us your ideas and opinions either through the [Telegram bot](https://t.me/CSE_Archive_Bot) or make issue in the repos
-- Take one of [the ideas](#ideas) written above and make all changes that you want on one of the repositories and then make a pull request after doing it
+- Take one of the ideas written above and make all changes that you want on one of the repositories and then make a pull request after doing it
 - Donate through following platforms so that we could pay for the hosts
 
-[<img alt="Bitcoin" height="20px" src="profile/donation_logos/btc_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/btc_address.txt) &nbsp;
-[<img alt="Bitcoin" height="20px" src="profile/donation_logos/eth_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/eth_address.txt) &nbsp;
-[<img alt="Bitcoin" height="20px" src="profile/donation_logos/bnb_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/bnb_address.txt) &nbsp;
-[<img alt="ID Pay" height="20px" src="docs/readmefiles/idpay_logo.svg" />](https://idpay.ir/cse-archive)
+[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/btc_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/btc_address.txt) &nbsp;
+[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/eth_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/eth_address.txt) &nbsp;
+[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/bnb_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/bnb_address.txt) &nbsp;
+[<img alt="ID Pay" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/idpay_logo.svg" />](https://idpay.ir/cse-archive)
