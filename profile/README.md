@@ -41,7 +41,7 @@ There are different ways to contribute to the project:
 - Take one of the ideas written above and make all changes that you want on one of the repositories and then make a pull request after doing it
 - Donate through following platforms so that we could pay for the hosts
 
-[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/btc_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/btc_address.txt) &nbsp;
-[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/eth_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/eth_address.txt) &nbsp;
-[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/bnb_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/profile/donation/bnb_address.txt) &nbsp;
+[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/btc_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/main/profile/donation/btc_address.txt) &nbsp;
+[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/eth_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/main/profile/donation/eth_address.txt) &nbsp;
+[<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/bnb_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/main/profile/donation/bnb_address.txt) &nbsp;
 [<img alt="ID Pay" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/idpay_logo.svg" />](https://idpay.ir/cse-archive)
