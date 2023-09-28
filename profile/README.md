@@ -1,45 +1,47 @@
 ## :information_desk_person: About Us
 
-We are some computer engineering students of Shiraz University, who first created a [Telegram channel](https://t.me/CSE_Archive) to collect and store resources and references for our department's courses.
-After some time, we came up with this idea to turn that channel into a website so that it can be used more  .
+We are a group of computer engineering students from Shiraz University who initially created a [Telegram channel](https://t.me/CSE_Archive) to collect and store resources and references for our department's courses. Over time, we conceived the idea of transforming this channel into a website to enhance its accessibility and utility.
 
 
-## :information_source: About Project
+## :information_source: About the Project
 
-This project includes a site to show collected resources and references and other parts, and an admin panel to manage the site.
-The project consists of three parts so far;
-- A part for the [site's back-end](https://github.com/CSE-Archive/archive-api) which is written in Python language and Django framework.
-- The next part if [site's front-end](https://github.com/CSE-Archive/archive-ui) which is written in Dart language and Flutter framework.
-- And a [Telegram bot](https://github.com/CSE-Archive/archive-telegram-bot) so that users can communicate with admins through it, which is built with python-telegram-bot library.
-The description to each part of the project is in its own repository's Readme, and through it you can deploy a clone of the project for yourself.
+This project comprises a website for showcasing the accumulated resources and references, as well as an admin panel for site management. The project currently consists of three main components:
 
+- The [site's back-end](https://github.com/CSE-Archive/archive-api), implemented in Python using the Django framework.
+- The [site's front-end](https://github.com/CSE-Archive/archive-ui), developed in Dart using the Flutter framework.
+- A [Telegram bot](https://github.com/CSE-Archive/archive-telegram-bot) that allows users to communicate with administrators; it is constructed using the python-telegram-bot library.
 
-## :bulb: IDEAS
-
-- Comments section for professors
-- Add page for teacher assistants so users can comment and vote for them
-- Professors popularity poll
-- Display banner on home page
-- Semester and exam schedule
-- Display links related to the course (e.g. online courses)
-- Connect the backend to a Telegram bot to send channel messages automatically
-- Display Usefull links
-- Add user login and display personalized chart for user
-- Add a part on the admin panel to edit being admin conventions
-- Display page views count and the most visited pages
-- Complete the descriptions of professors and courses
-- Add page for departments to show their details and staff contact numbers
+Detailed descriptions of each project component can be found in their respective repository README files, which also provide guidance for deploying a clone of the project.
 
 
-## :handshake: Contribution
+## :bulb: Ideas
 
-There are different ways to contribute to the project:
+Here are some ideas that we had for enhancing and scaling the project:
 
-- Introduce us to your friends
-- Star our repositories
-- Tell us your ideas and opinions either through the [Telegram bot](https://t.me/CSE_Archive_Bot) or make issue in the repos
-- Take one of the ideas written above and make all changes that you want on one of the repositories and then make a pull request after doing it
-- Donate through following platforms so that we could pay for the hosts
+- Implement a comments section for professors.
+- Create a dedicated page for teacher assistants, enabling users to comment and vote for them.
+- Conduct a popularity poll for professors.
+- Include a banner for department workshops and bignews on the home page.
+- Provide semester and exams schedules.
+- Display links related to each course, such as online resources.
+- Establish a connection between the backend and a Telegram bot to automate channel messages.
+- Add a section for useful links.
+- Implement user login and display personalized charts.
+- Add a section in the admin panel to display admin conventions.
+- Display page view counts and highlight the most visited pages.
+- Enhance professors and courses descriptions.
+- Develop department pages to showcase details and staff contact information.
+
+
+## :handshake: Support & Contribution
+
+There are various ways to support or contribute to our project:
+
+- Help us spread the word by introducing our project to your friends.
+- Show your support by starring our repositories.
+- Share your ideas and feedback either through the [Telegram bot](https://t.me/CSE_Archive_Bot) or by creating issues in the repositories.
+- Take one of the ideas listed above and implement your desired changes in one of the repositories, then submit a pull request.
+- Contribute financially to help cover hosting costs through the following platforms:
 
 [<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/btc_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/main/profile/donation/btc_address.txt) &nbsp;
 [<img alt="Bitcoin" height="20px" src="https://github.com/CSE-Archive/.github/blob/main/profile/donation/eth_logo.svg" />](https://raw.githubusercontent.com/CSE-Archive/.github/main/profile/donation/eth_address.txt) &nbsp;
