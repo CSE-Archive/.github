@@ -8,7 +8,7 @@ We are a group of computer engineering students from Shiraz University who initi
 This project comprises a website for showcasing the accumulated resources and references, as well as an admin panel for site management. The project currently consists of three main components:
 
 - The [site's back-end](https://github.com/CSE-Archive/archive-api), implemented in Python using the Django framework.
-- The [site's front-end](https://github.com/CSE-Archive/archive-ui), developed in Dart using the Flutter framework.
+- The [site's front-end](https://github.com/CSE-Archive/archive-frontend), developed in Dart using the Flutter framework.
 - A [Telegram bot](https://github.com/CSE-Archive/archive-telegram-bot) that allows users to communicate with administrators; it is constructed using the python-telegram-bot library.
 
 Detailed descriptions of each project component can be found in their respective repository README files, which also provide guidance for deploying a clone of the project.
